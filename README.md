@@ -48,7 +48,7 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 </a>
 <a href="#">
     <img src="https://i.postimg.cc/jDDcZB3p/Java-Script.png" width="55" height="55"/>
-</a><br />
+</a>
 <a href="#">
     <img src="https://i.postimg.cc/3dJnDkXJ/css3.png" width="55" height="55"/>
 </a>
