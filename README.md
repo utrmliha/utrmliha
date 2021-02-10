@@ -19,22 +19,22 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 
 <h2> 🛠 &nbsp;Minhas Habilidades</h2>
 
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/14gpxDrF/java-ee.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/5NJQqdzJ/Sem-T-tulo-1.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/YCWcpVX4/JSP.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/Df4jtsm6/jquery.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/HWr4rggk/ajax.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/4KMrWz15/Json.png" alt="python" width="55" height="55"/>
 </a>
 <!--<a>
@@ -43,36 +43,37 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 <a>
     <img src="https://fernandofranzini.files.wordpress.com/2018/03/hibernate2.png?w=705" alt="python" width="55" height="55"/>
 </a>-->
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/zVtpwq7w/html5.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/jDDcZB3p/Java-Script.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/3dJnDkXJ/css3.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/CZd3Cvb5/bootstrap.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/gkkpVNgj/Postgresql.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/vHDj8jPr/tomcat.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/zfN0hPkP/subversion.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/MZnNqN3y/eclipse.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/0MtjrXGf/vegas.png" alt="python" width="55" height="55"/>
 </a>
-<a>
+<a href="#">
     <img src="https://i.postimg.cc/sQf1jCWx/photoshop.png" alt="python" width="55" height="55"/>
 </a>
+
 <h2> 📚 &nbsp;Minhas Certificações</h2>
 <a href="https://www.dropbox.com/sh/k6ecbl5w6xt48xd/AABBbYblvrbKJ2YajqBZDc_Ta?dl=0">
     <img src="https://i.postimg.cc/437yPbbk/dropbox.png" alt="python" width="235" height="100"/>
