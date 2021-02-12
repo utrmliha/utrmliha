@@ -78,3 +78,7 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 <a href="https://www.dropbox.com/sh/k6ecbl5w6xt48xd/AABBbYblvrbKJ2YajqBZDc_Ta?dl=0">
     <img src="https://i.postimg.cc/437yPbbk/dropbox.png" width="235" height="90"/>
 </a>
+
+<h2> 🚩 &nbsp;Informações do Github</h2>
+- 🟢 Projetos marcados com essa cor indica versões finais e publicas.
+- 🟡 Projetos marcados com essa cor indica versões de teste, usados somente no meu processo de aprendizagem, códigos para estudo pessoal e não amarrado á um projeto final
