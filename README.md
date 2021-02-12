@@ -13,7 +13,7 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 ### Mais Sobre Mim:
 
 - 👨💻 Atualmente desempregado. Aprendendo e aprimorando minhas habilidades em Web Developer FullStack em Java.
-- 🤝 Aberto para parcerias e colaborações no desenvolvimento de projetos 🕸️
+- 🤝 Aberto para parcerias e colaborações no desenvolvimento de projetos 🕸️.
 - 💻 &nbsp; Adoro desafios na criação de novos sistemas.
 - 🌐 Entre em contato: [igor.vinicius@live.com](https://igor.vinicius@live.com) para mais informações e parcerias.
 
@@ -80,5 +80,5 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 </a>
 
 <h2> 🚩 &nbsp;Informações do Github</h2>
-- 🟢 Projetos marcados com essa cor indica versões finais e publicas.
-- 🟡 Projetos marcados com essa cor indica versões de teste, usados somente no meu processo de aprendizagem, códigos para estudo pessoal e não amarrado á um projeto final
+- 🟢 Projetos marcados com essa cor indica versões finais e publicas. <br />
+- 🟡 Projetos marcados com essa cor indica versões de teste, usados somente no meu processo de aprendizagem, códigos para estudo pessoal e não amarrado á um projeto final.
