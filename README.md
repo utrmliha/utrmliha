@@ -8,7 +8,7 @@
 
 ### 😅Feliz em ve-lo aqui
 
-Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente não estou em nenhuma faculdade mas estudo na JDev Treinamentos 🏛. Sempre fui autodidata e aprendo diversas tecnologias por conta própia, tenho facilidade em aprender novas linguagens e frameworks pois só consigo dormir quando o conteúdo visto é 100% dominado 💡. Eu amo explorar novas tecnologias, e relaciona-las a soluções de problemas reais é maravilhoso ✨. Atualmente estou cursando Web Developer Full-Stack em JavaEE e ansioso para contribuir com os meus conhecimentos👀.
+Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente estudo na JDev Treinamentos 🏛. Sempre fui autodidata e aprendo diversas tecnologias por conta própia, tenho facilidade em aprender novas linguagens e frameworks pois só consigo dormir quando o conteúdo visto é 100% dominado 💡. Eu amo explorar novas tecnologias, e relaciona-las a soluções de problemas reais é maravilhoso ✨. Atualmente estou cursando Web Developer Full-Stack em JavaEE e ansioso para contribuir com os meus conhecimentos👀.
 
 ### Mais Sobre Mim:
 
