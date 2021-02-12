@@ -37,12 +37,12 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 <a href="#">
     <img src="https://i.postimg.cc/4KMrWz15/Json.png" width="55" height="55"/>
 </a>
-<!--Cursos em Andamento...<a>
+<a>
     <img src="https://neumanlab.com/wp-content/uploads/2020/07/Java-server-Faces.png" width="55" height="55"/>
 </a>
 <a>
     <img src="https://fernandofranzini.files.wordpress.com/2018/03/hibernate2.png?w=705" width="55" height="55"/>
-</a>-->
+</a>
 <a href="#">
     <img src="https://i.postimg.cc/zVtpwq7w/html5.png" width="55" height="55"/>
 </a>
