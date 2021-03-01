@@ -79,7 +79,7 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 
 <h2> 📚 &nbsp;Minhas Certificações</h2>
 <a href="https://www.dropbox.com/sh/k6ecbl5w6xt48xd/AABBbYblvrbKJ2YajqBZDc_Ta?dl=0">
-    <img src="https://i.postimg.cc/437yPbbk/dropbox.png" width="235" height="80"/>
+    <img src="https://i.postimg.cc/pXS5cDkT/certificado.png"/>
 </a>
 
 <h2> 🚩 &nbsp;Informações do Github</h2>
