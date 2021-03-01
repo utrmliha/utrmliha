@@ -38,6 +38,9 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
     <img src="https://i.postimg.cc/4KMrWz15/Json.png" width="55" height="55"/>
 </a>
 <a href="#">
+    <img src="https://i.postimg.cc/V6fxC0x9/xml.png" width="55" height="55"/>
+</a>
+<a href="#">
 <img src="https://neumanlab.com/wp-content/uploads/2020/07/Java-server-Faces.png" width="55" height="55"/>
 </a>
 <a href="#">
