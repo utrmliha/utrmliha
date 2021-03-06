@@ -3,7 +3,8 @@
 
 <a href="https://www.linkedin.com/in/igorvj/">![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/igor.vj/">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://github.com/utrmliha">![Whatsapp Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://www.dropbox.com/sh/k6ecbl5w6xt48xd/AABBbYblvrbKJ2YajqBZDc_Ta?dl=0">![Dropbox Badge](https://img.shields.io/badge/Certificados-E8641B?style=for-the-badge)</a>
+<a href="https://github.com/utrmliha">![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 ### 😅Feliz em ve-lo aqui
 
@@ -77,11 +78,6 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 </a>
 <a href="#">
     <img src="https://i.postimg.cc/sQf1jCWx/photoshop.png" width="55" height="55"/>
-</a>
-
-<h2> 🥇 &nbsp;Minhas Certificações</h2>
-<a href="https://www.dropbox.com/sh/k6ecbl5w6xt48xd/AABBbYblvrbKJ2YajqBZDc_Ta?dl=0">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.postimg.cc/pXS5cDkT/certificado.png" width="200"/>
 </a>
 
 <h2> 💠 &nbsp;Infos</h2>
