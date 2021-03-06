@@ -106,4 +106,4 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 [![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JavaMail-API&theme=radical)](https://github.com/utrmliha/JavaMail-API)
 
 
-![Top Langs](https://lihautrm.vercel.app/api/top-langs/?username=utrmliha&layout=compact&theme=radical)
+<img align="center" src="https://lihautrm.vercel.app/api/top-langs/?username=utrmliha&layout=compact&theme=radical">
