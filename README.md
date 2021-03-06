@@ -88,8 +88,11 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 - 🟡 Projetos marcados com essa cor indica versões de teste, usados somente no meu processo de aprendizagem, códigos para estudo pessoal e não amarrado á um projeto final.
 <br /><br />
 
-![Anurag's GitHub stats](https://lihautrm.vercel.app/api?username=utrmliha&theme=radical)
-<br /><br />
+<p align="center">
+    <img src="https://lihautrm.vercel.app/api?username=utrmliha&theme=radical">
+</p>
+
+<br />
 
 <h2> 📜 &nbsp;Repositórios</h2>
 
