@@ -1,6 +1,6 @@
 ## Olá 👋, Eu sou <i>Igor Vinicius</i>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/igorvj/">![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/igor.vj/">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
