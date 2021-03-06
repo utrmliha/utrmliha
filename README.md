@@ -89,7 +89,7 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 <br /><br />
 
 <p align="center">
-    <img src="https://lihautrm.vercel.app/api?username=utrmliha&theme=radical">
+    <img src="https://lihautrm2.vercel.app/api?username=utrmliha&theme=radical">
 </p>
 
 <br />
@@ -98,31 +98,31 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 
 <p align="center">
     <a href="https://github.com/utrmliha/Spring-Data-JPA">
-        <img src="https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&theme=radical">
+        <img src="https://lihautrm2.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&theme=radical">
     </a>
     <a href="https://github.com/utrmliha/PrimeFaces-JPA-Hibernate">
-        <img src="https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=PrimeFaces-JPA-Hibernate&theme=radical">
+        <img src="https://lihautrm2.vercel.app/api/pin/?username=utrmliha&repo=PrimeFaces-JPA-Hibernate&theme=radical">
     </a>
     <a href="https://github.com/utrmliha/Hibernate-JSF">
-        <img src="https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Hibernate-JSF&theme=radical">
+        <img src="https://lihautrm2.vercel.app/api/pin/?username=utrmliha&repo=Hibernate-JSF&theme=radical">
     </a>
     <a href="https://github.com/utrmliha/JSP-Servlet-Avancado">
-    <img src="https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet-Avancado&theme=radical">
+    <img src="https://lihautrm2.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet-Avancado&theme=radical">
     </a>
         <a href="https://github.com/utrmliha/JSP-Servlet">
-        <img src="https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet&theme=radical">
+        <img src="https://lihautrm2.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet&theme=radical">
     </a>
     <a href="https://github.com/utrmliha/Hibernate">
-        <img src="https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Hibernate&theme=radical">
+        <img src="https://lihautrm2.vercel.app/api/pin/?username=utrmliha&repo=Hibernate&theme=radical">
     </a>
         <a href="https://github.com/utrmliha/JDBC-Maven">
-        <img src="https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JDBC-Maven&theme=radical">
+        <img src="https://lihautrm2.vercel.app/api/pin/?username=utrmliha&repo=JDBC-Maven&theme=radical">
     </a>
     <a href="https://github.com/utrmliha/JavaMail-API">
-        <img src="https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JavaMail-API&theme=radical">
+        <img src="https://lihautrm2.vercel.app/api/pin/?username=utrmliha&repo=JavaMail-API&theme=radical">
     </a>
 </p>
 
 <p align="center">
-    <img src="https://lihautrm.vercel.app/api/top-langs/?username=utrmliha&layout=compact&theme=radical">
+    <img src="https://lihautrm2.vercel.app/api/top-langs/?username=utrmliha&layout=compact&theme=radical">
 </p>
