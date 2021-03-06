@@ -19,6 +19,8 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 
 <h2> 🛠 &nbsp;Minhas Habilidades</h2>
 
+<p align="center">
+    
 <a href="#">
     <img src="https://i.postimg.cc/14gpxDrF/java-ee.png" width="55" height="55"/>
 </a>
@@ -82,6 +84,7 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 <a href="#">
     <img src="https://i.postimg.cc/sQf1jCWx/photoshop.png" width="55" height="55"/>
 </a>
+</p>
 
 <h2> 💠 &nbsp;Infos</h2>
 - 🟢 Projetos marcados com essa cor indica versões finais e publicas, usadas também como Portfólio. <br />
