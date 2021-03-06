@@ -71,6 +71,9 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
     <img src="https://i.postimg.cc/zfN0hPkP/subversion.png" width="55" height="55"/>
 </a>
 <a href="#">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"/>
+</a>
+<a href="#">
     <img src="https://i.postimg.cc/MZnNqN3y/eclipse.png" width="55" height="55"/>
 </a>
 <a href="#">
