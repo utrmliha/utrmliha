@@ -87,17 +87,3 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utrmliha&theme=radical)]
 <br /><br />
-
-<h2> 📜 &nbsp;Repositórios</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&show_owner=true)](https://github.com/utrmliha/Spring-Data-JPA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utrmliha&repo=PrimeFaces-JPA-Hibernate&show_owner=true)](https://github.com/utrmliha/PrimeFaces-JPA-Hibernate)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utrmliha&repo=Hibernate-JSF&show_owner=true)](https://github.com/utrmliha/Hibernate-JSF)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&show_owner=true)](https://github.com/utrmliha/Spring-Data-JPA)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utrmliha&repo=Hibernate&show_owner=true)](https://github.com/utrmliha/Hibernate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet-Avancado&show_owner=true)](https://github.com/utrmliha/JSP-Servlet-Avancado)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet&show_owner=true)](https://github.com/utrmliha/JSP-Servlet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utrmliha&repo=JavaMail-API&show_owner=true)](https://github.com/utrmliha/JavaMail-API)
