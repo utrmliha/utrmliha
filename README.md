@@ -94,7 +94,11 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 <h2> 📜 &nbsp;Repositórios</h2>
 
 <p align="center">
-    
+    <a href="https://github.com/utrmliha/Spring-Data-JPA">
+        <img src="https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&theme=radical">
+    </a>
+</p>
+
 [![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&theme=radical)](https://github.com/utrmliha/Spring-Data-JPA)
 [![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=PrimeFaces-JPA-Hibernate&theme=radical)](https://github.com/utrmliha/PrimeFaces-JPA-Hibernate)
 
@@ -106,7 +110,7 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 
 [![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet&theme=radical)](https://github.com/utrmliha/JSP-Servlet)
 [![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JavaMail-API&theme=radical)](https://github.com/utrmliha/JavaMail-API)
-</p>
+
 <p align="center">
     <img src="https://lihautrm.vercel.app/api/top-langs/?username=utrmliha&layout=compact&theme=radical">
 </p>
