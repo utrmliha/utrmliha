@@ -93,17 +93,17 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 
 <h2> 📜 &nbsp;Repositórios</h2>
 
-[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&show_owner=true&theme=radical)](https://github.com/utrmliha/Spring-Data-JPA)
-[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=PrimeFaces-JPA-Hibernate&show_owner=true&theme=radical)](https://github.com/utrmliha/PrimeFaces-JPA-Hibernate)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&theme=radical)](https://github.com/utrmliha/Spring-Data-JPA)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=PrimeFaces-JPA-Hibernate&theme=radical)](https://github.com/utrmliha/PrimeFaces-JPA-Hibernate)
 
-[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Hibernate-JSF&show_owner=true&theme=radical)](https://github.com/utrmliha/Hibernate-JSF)
-[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&show_owner=true&theme=radical)](https://github.com/utrmliha/Spring-Data-JPA)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Hibernate-JSF&theme=radical)](https://github.com/utrmliha/Hibernate-JSF)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&theme=radical)](https://github.com/utrmliha/Spring-Data-JPA)
 
-[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Hibernate&show_owner=true&theme=radical)](https://github.com/utrmliha/Hibernate)
-[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet-Avancado&show_owner=true&theme=radical)](https://github.com/utrmliha/JSP-Servlet-Avancado)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Hibernate&theme=radical)](https://github.com/utrmliha/Hibernate)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet-Avancado&theme=radical)](https://github.com/utrmliha/JSP-Servlet-Avancado)
 
-[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet&show_owner=true&theme=radical)](https://github.com/utrmliha/JSP-Servlet)
-[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JavaMail-API&show_owner=true&theme=radical)](https://github.com/utrmliha/JavaMail-API)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet&theme=radical)](https://github.com/utrmliha/JSP-Servlet)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JavaMail-API&theme=radical)](https://github.com/utrmliha/JavaMail-API)
 
 
 ![Top Langs](https://lihautrm.vercel.app/api/top-langs/?username=utrmliha&layout=compact&theme=radical)
