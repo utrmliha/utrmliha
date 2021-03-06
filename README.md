@@ -88,3 +88,5 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 <h2> 🚩 &nbsp;Informações do Github</h2>
 - 🟢 Projetos marcados com essa cor indica versões finais e publicas, usadas também como Portfólio. <br />
 - 🟡 Projetos marcados com essa cor indica versões de teste, usados somente no meu processo de aprendizagem, códigos para estudo pessoal e não amarrado á um projeto final.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utrmliha&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
