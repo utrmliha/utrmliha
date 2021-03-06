@@ -85,7 +85,7 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 - 🟡 Projetos marcados com essa cor indica versões de teste, usados somente no meu processo de aprendizagem, códigos para estudo pessoal e não amarrado á um projeto final.
 <br /><br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utrmliha&theme=radical)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utrmliha&theme=radical)
 <br /><br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utrmliha&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utrmliha&layout=compact)
