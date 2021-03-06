@@ -80,13 +80,13 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
     <img src="https://i.postimg.cc/sQf1jCWx/photoshop.png" width="55" height="55"/>
 </a>
 
-<h2> 📚 &nbsp;Minhas Certificações</h2>
+<h2> 🥇 &nbsp;Minhas Certificações</h2>
 <a href="https://www.dropbox.com/sh/k6ecbl5w6xt48xd/AABBbYblvrbKJ2YajqBZDc_Ta?dl=0">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.postimg.cc/pXS5cDkT/certificado.png" width="200"/>
 </a>
 
-<h2> 🚩 &nbsp;Informações do Github</h2>
+<h2> 💠 &nbsp;Infos</h2>
 - 🟢 Projetos marcados com essa cor indica versões finais e publicas, usadas também como Portfólio. <br />
-- 🟡 Projetos marcados com essa cor indica versões de teste, usados somente no meu processo de aprendizagem, códigos para estudo pessoal e não amarrado á um projeto final.
+- 🟡 Projetos marcados com essa cor indica versões de teste, usados somente no meu processo de aprendizagem, códigos para estudo pessoal e não amarrado á um projeto final.<br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utrmliha&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
