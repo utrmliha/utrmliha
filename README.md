@@ -88,22 +88,22 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 - 🟡 Projetos marcados com essa cor indica versões de teste, usados somente no meu processo de aprendizagem, códigos para estudo pessoal e não amarrado á um projeto final.
 <br /><br />
 
-![Anurag's GitHub stats](https://github-readme-stats-seven-liard.vercel.app/api?username=utrmliha&theme=radical)
+![Anurag's GitHub stats](https://lihautrm.vercel.app/api?username=utrmliha&theme=radical)
 <br /><br />
 
 <h2> 📜 &nbsp;Repositórios</h2>
 
-[![Readme Card](https://github-readme-stats-seven-liard.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&show_owner=true)](https://github.com/utrmliha/Spring-Data-JPA)
-[![Readme Card](https://github-readme-stats-seven-liard.vercel.app/api/pin/?username=utrmliha&repo=PrimeFaces-JPA-Hibernate&show_owner=true)](https://github.com/utrmliha/PrimeFaces-JPA-Hibernate)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&show_owner=true)](https://github.com/utrmliha/Spring-Data-JPA)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=PrimeFaces-JPA-Hibernate&show_owner=true)](https://github.com/utrmliha/PrimeFaces-JPA-Hibernate)
 
-[![Readme Card](https://github-readme-stats-seven-liard.vercel.app/api/pin/?username=utrmliha&repo=Hibernate-JSF&show_owner=true)](https://github.com/utrmliha/Hibernate-JSF)
-[![Readme Card](https://github-readme-stats-seven-liard.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&show_owner=true)](https://github.com/utrmliha/Spring-Data-JPA)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Hibernate-JSF&show_owner=true)](https://github.com/utrmliha/Hibernate-JSF)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&show_owner=true)](https://github.com/utrmliha/Spring-Data-JPA)
 
-[![Readme Card](https://github-readme-stats-seven-liard.vercel.app/api/pin/?username=utrmliha&repo=Hibernate&show_owner=true)](https://github.com/utrmliha/Hibernate)
-[![Readme Card](https://github-readme-stats-seven-liard.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet-Avancado&show_owner=true)](https://github.com/utrmliha/JSP-Servlet-Avancado)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=Hibernate&show_owner=true)](https://github.com/utrmliha/Hibernate)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet-Avancado&show_owner=true)](https://github.com/utrmliha/JSP-Servlet-Avancado)
 
-[![Readme Card](https://github-readme-stats-seven-liard.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet&show_owner=true)](https://github.com/utrmliha/JSP-Servlet)
-[![Readme Card](https://github-readme-stats-seven-liard.vercel.app/api/pin/?username=utrmliha&repo=JavaMail-API&show_owner=true)](https://github.com/utrmliha/JavaMail-API)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JSP-Servlet&show_owner=true)](https://github.com/utrmliha/JSP-Servlet)
+[![Readme Card](https://lihautrm.vercel.app/api/pin/?username=utrmliha&repo=JavaMail-API&show_owner=true)](https://github.com/utrmliha/JavaMail-API)
 
 
-![Top Langs](https://github-readme-stats-seven-liard.vercel.app/api/top-langs/?username=utrmliha&layout=compact)
+![Top Langs](https://lihautrm.vercel.app/api/top-langs/?username=utrmliha&layout=compact)
