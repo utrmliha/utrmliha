@@ -52,7 +52,7 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 <img src="https://i.postimg.cc/J41mZkG5/spring-final.png" width="55" height="55"/>
 </a>
 <a href="#">
-<img src="https://i.postimg.cc/xTtQR1mD/thymeleaf.png" width="50" height="50"/>
+<img src="https://i.postimg.cc/zXf6qSy6/thymeleaf.png" width="50" height="50"/>
 </a>
 <a href="#">
     <img src="https://i.postimg.cc/zVtpwq7w/html5.png" width="55" height="55"/>
