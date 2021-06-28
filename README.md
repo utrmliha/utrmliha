@@ -93,6 +93,9 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
     <img src="https://i.postimg.cc/PqYZgbqL/MAVEN.png" width="55" height="55"/>
 </a>
 <a href="#">
+    <img src="https://i.postimg.cc/kXn590nF/GUICE.png" width="55" height="55"/>
+</a>
+<a href="#">
     <img src="https://i.postimg.cc/MZnNqN3y/eclipse.png" width="55" height="55"/>
 </a>
 <a href="#">
