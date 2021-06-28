@@ -20,7 +20,6 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 <h2> 🛠 &nbsp;Minhas Habilidades</h2>
 
 <p align="center">
-    
 <a href="#">
     <img src="https://i.postimg.cc/14gpxDrF/java-ee.png" width="55" height="55"/>
 </a>
@@ -29,6 +28,9 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 </a>
 <a href="#">
     <img src="https://i.postimg.cc/YCWcpVX4/JSP.png" width="55" height="55"/>
+</a>
+<a href="#">
+    <img src="https://i.postimg.cc/nzx7pss3/SOLID.png" width="55" height="55"/>
 </a>
 <a href="#">
     <img src="https://i.postimg.cc/Df4jtsm6/jquery.png" width="55" height="55"/>
@@ -43,16 +45,16 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
     <img src="https://i.postimg.cc/V6fxC0x9/xml.png" width="55" height="55"/>
 </a>
 <a href="#">
-<img src="https://neumanlab.com/wp-content/uploads/2020/07/Java-server-Faces.png" width="55" height="55"/>
+    <img src="https://neumanlab.com/wp-content/uploads/2020/07/Java-server-Faces.png" width="55" height="55"/>
 </a>
 <a href="#">
-<img src="https://fernandofranzini.files.wordpress.com/2018/03/hibernate2.png?w=705" width="55" height="55"/>
+    <img src="https://fernandofranzini.files.wordpress.com/2018/03/hibernate2.png?w=705" width="55" height="55"/>
 </a>
 <a href="#">
-<img src="https://i.postimg.cc/J41mZkG5/spring-final.png" width="55" height="55"/>
+    <img src="https://i.postimg.cc/J41mZkG5/spring-final.png" width="55" height="55"/>
 </a>
 <a href="#">
-<img src="https://i.postimg.cc/zXf6qSy6/thymeleaf.png" width="50" height="50"/>
+    <img src="https://i.postimg.cc/zXf6qSy6/thymeleaf.png" width="50" height="50"/>
 </a>
 <a href="#">
     <img src="https://i.postimg.cc/zVtpwq7w/html5.png" width="55" height="55"/>
@@ -79,10 +81,19 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"/>
 </a>
 <a href="#">
+    <img src="https://i.postimg.cc/7Zp0ttq8/Gradle.png" width="55" height="55"/>
+</a>
+<a href="#">
+    <img src="https://i.postimg.cc/PqYZgbqL/MAVEN.png" width="55" height="55"/>
+</a>
+<a href="#">
     <img src="https://i.postimg.cc/MZnNqN3y/eclipse.png" width="55" height="55"/>
 </a>
 <a href="#">
     <img src="https://i.postimg.cc/7Z0V4fnj/spring-tool-suite4.png" width="55" height="55"/>
+</a>
+<a href="#">
+    <img src="https://i.postimg.cc/hj0mjSTc/Spark.png" width="55" height="55"/>
 </a>
 <a href="#">
     <img src="https://i.postimg.cc/0MtjrXGf/vegas.png" width="55" height="55"/>
