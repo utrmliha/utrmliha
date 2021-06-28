@@ -51,7 +51,10 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
     <img src="https://fernandofranzini.files.wordpress.com/2018/03/hibernate2.png?w=705" width="55" height="55"/>
 </a>
 <a href="#">
-    <img src="https://i.postimg.cc/J41mZkG5/spring-final.png" width="55" height="55"/>
+    <img src="https://i.postimg.cc/hvsVCV0k/Spring-Data.png" width="55" height="55"/>
+</a>
+<a href="#">
+    <img src="https://i.postimg.cc/zDFwX11x/s-PRING-SECURITY.png" width="55" height="55"/>
 </a>
 <a href="#">
     <img src="https://i.postimg.cc/hj0mjSTc/Spark.png" width="55" height="55"/>
