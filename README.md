@@ -13,9 +13,9 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 ### Mais Sobre Mim:
 
 - 👨 Aprendendo e aprimorando minhas habilidades em Web Developer FullStack em Java.
-- 🤝 Aberto para parcerias e colaborações no desenvolvimento de projetos 🕸️.
+<!-- - 🤝 Aberto para parcerias e colaborações no desenvolvimento de projetos 🕸️. -->
 - 💻 Adoro desafios na criação de novos sistemas.
-- 🌐 Entre em contato: [igor.vinicius@live.com](https://igor.vinicius@live.com) para mais informações e parcerias.
+- 🌐 Entre em contato: [igor.vinicius@live.com](https://igor.vinicius@live.com) <!-- para mais informações e parcerias -->.
 
 <h2> 🛠 &nbsp;Minhas Habilidades</h2>
 
