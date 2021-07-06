@@ -118,6 +118,9 @@ Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente
 <h2> 📜 &nbsp;Repositórios</h2>
 
 <p align="center">
+    <a href="https://github.com/utrmliha/Customer-API">
+        <img src="https://lihautrm2.vercel.app/api/pin/?username=utrmliha&repo=Customer-API&theme=radical">
+    </a>
     <a href="https://github.com/utrmliha/Spring-Data-JPA">
         <img src="https://lihautrm2.vercel.app/api/pin/?username=utrmliha&repo=Spring-Data-JPA&theme=radical">
     </a>
