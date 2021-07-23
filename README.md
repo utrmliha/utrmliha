@@ -8,7 +8,7 @@
 
 ### 😅Feliz em ve-lo aqui
 
-Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente estudo Web Developer Full-Stack Java na <a href="https://www.jdevtreinamento.com.br">JDev Treinamentos</a> e cursando Ciência da computação 🏛. Sempre fui autodidata e aprendo diversas tecnologias por conta própia, tenho facilidade em aprender novas linguagens e frameworks pois só consigo dormir quando o conteúdo visto é 100% dominado 💡. Eu amo explorar novas tecnologias, e relaciona-las a soluções de problemas reais é maravilhoso ✨.
+Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente estudo Web Developer Full-Stack Java na <a href="https://www.jdevtreinamento.com.br">JDev Treinamentos</a> e cursando Ciência da computação 🏛. Sempre fui autodidata e aprendo diversas tecnologias por conta própria, tenho facilidade em aprender novas linguagens e frameworks pois só consigo dormir quando o conteúdo visto é 100% dominado 💡. Eu amo explorar novas tecnologias, e relaciona-las a soluções de problemas reais é maravilhoso ✨.
 
 ### Mais Sobre Mim:
 
