@@ -8,11 +8,11 @@
 
 ### 😅Feliz em ve-lo aqui
 
-Sou estudante de programação e amante por desenvolvimento web 🎓. Atualmente estudo Web Developer Full-Stack Java na <a href="https://www.jdevtreinamento.com.br">JDev Treinamentos</a> e cursando Ciência da computação 🏛. Sempre fui autodidata e aprendo diversas tecnologias por conta própria, tenho facilidade em aprender novas linguagens e frameworks pois só consigo dormir quando o conteúdo visto é 100% dominado 💡. Eu amo explorar novas tecnologias, e relaciona-las a soluções de problemas reais é maravilhoso ✨.
+Sou programador e amante por Desenvolvimento Web 🎓. Atualmente cursando Ciência da computação 🏛 e focando em Desenvolvimento Back-end. Sempre fui autodidata e aprendo diversas tecnologias por conta própria, tenho facilidade em aprender novas linguagens e frameworks pois só consigo dormir quando o conteúdo visto é 100% dominado 💡. Eu amo explorar novas tecnologias pelos problemas que elas solucionam e aplica-las de acordo com minha necessidade.
 
 ### Mais Sobre Mim:
 
-- 👨 Aprendendo e aprimorando minhas habilidades em Web Developer FullStack em Java.<!-- - 🤝 Aberto para parcerias e colaborações no desenvolvimento de projetos 🕸️. -->
+- 👨 Aprendendo e aprimorando minhas habilidades em Web Developer Back-end/FullStack em Java.<!-- - 🤝 Aberto para parcerias e colaborações no desenvolvimento de projetos 🕸️. -->
 - 💻 Adoro desafios na criação de novos sistemas.
 - 🌐 Entre em contato: [igor.vinicius@live.com](https://igor.vinicius@live.com) <!-- para mais informações e parcerias -->.
 
