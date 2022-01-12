@@ -95,6 +95,9 @@ Sou programador e amante por Desenvolvimento Web 🎓. Atualmente cursando Ciên
     <img src="https://i.postimg.cc/kXn590nF/GUICE.png" width="55" height="55"/>
 </a>
 <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="55" height="55"/>
+</a>
+<a href="#">
     <img src="https://i.postimg.cc/MZnNqN3y/eclipse.png" width="55" height="55"/>
 </a>
 <a href="#">
