@@ -104,6 +104,18 @@ Sou programador e amante por Desenvolvimento Web 🎓. Atualmente cursando Ciên
     <img src="https://i.postimg.cc/7Z0V4fnj/spring-tool-suite4.png" width="55" height="55"/>
 </a>
 <a href="#">
+    <img src="https://i.postimg.cc/Y2bx0SdS/246656344-10165689418720557-4225476852778908330-n.png" width="55" height="55"/>
+</a>
+<a href="#">
+    <img src="https://i.postimg.cc/tJxRKJTz/5969282.png" width="55" height="55"/>
+</a>
+<a href="#">
+    <img src="https://i.postimg.cc/TYrQGXKd/download.png" width="55" height="55"/>
+</a>
+<a href="#">
+    <img src="https://i.postimg.cc/DyLFTmQS/imagem-2022-12-19-083057375.png" width="33.9" height="55" object-fit=cover/>
+</a>
+<a href="#">
     <img src="https://i.postimg.cc/0MtjrXGf/vegas.png" width="55" height="55"/>
 </a>
 <a href="#">
