@@ -8,8 +8,7 @@
 
 ### 😅Feliz em ve-lo aqui
 
-Sou programador e amante por Desenvolvimento Web 🎓. Atualmente cursando Ciência da computação 🏛 e focando em Desenvolvimento Back-end. Sempre fui autodidata e aprendo diversas tecnologias por conta própria, tenho facilidade em aprender novas linguagens e frameworks pois só consigo dormir quando o conteúdo visto é 100% dominado 💡. Eu amo explorar novas tecnologias pelos problemas que elas solucionam e aplica-las de acordo com minha necessidade.
-
+Igor é um Desenvolvedor Full-Stack, atualmente cursando Ciência da computação e com expertise em Desenvolvimento Back-End Java e experiencias em desenvolvimento Mobile e Front-End. É autodidata e aprende diversas tecnologias por conta própria, tem facilidade em aprender novas linguagens e frameworks. Ama explorar novas tecnologias pelos problemas que elas solucionam e aplica-las de acordo com sua necessidade ou em um contexto social.
 ### Mais Sobre Mim:
 
 - 👨 Aprendendo e aprimorando minhas habilidades em Web Developer Back-end/FullStack em Java.<!-- - 🤝 Aberto para parcerias e colaborações no desenvolvimento de projetos 🕸️. -->
